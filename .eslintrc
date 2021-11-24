@@ -7,6 +7,17 @@
     "jest": true
   },
   "rules": {
+    "no-console": "off",
+    "jsx-a11y/label-has-associated-control": ["error", {
+      "required": {
+        "some": ["nesting", "id"]
+      }
+    }],
+    "jsx-a11y/label-has-for": ["error", {
+      "required": {
+        "some": ["nesting", "id"]
+      }
+    }],
     "jsx-a11y/anchor-is-valid": ["error", {
       "components": ["Link"],
       "specialLink": ["to", "hrefLeft", "hrefRight"],
@@ -15,9 +26,9 @@
     "jsx-a11y/click-events-have-key-events": 0,
     "jsx-a11y/href-no-hash": "off",
     "jsx-a11y/no-static-element-interactions": 0,
-    "no-console": ["error", {
-      "allow": ["warn", "error", "info"]
-    }],
+    // "no-console": ["error", {
+    //   "allow": ["warn", "error", "info"]
+    // }],
     "no-underscore-dangle": 0,
     "react/destructuring-assignment": 0,
     "react/jsx-filename-extension": [1, {
@@ -30,7 +41,7 @@
       "assignment": true,
       "return": true
     }]
-  },
+    },
   "plugins": [
     "react"
   ]
