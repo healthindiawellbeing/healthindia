@@ -12,10 +12,10 @@ const routes = [
     label: 'Ingredients',
     path: '/ingredients',
   },
-  // {
-  //   label: 'Project',
-  //   path: '/projects',
-  // },
+  {
+    label: 'Diet Chart',
+    path: '/dietchart',
+  },
   // {
   //   label: 'Stats',
   //   path: '/stats',

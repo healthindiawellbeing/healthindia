@@ -4,11 +4,11 @@ const { PUBLIC_URL } = process.env;
 
 const Experience = () => (
   <div className="experience">
-    <img src={`${PUBLIC_URL}/images/brokenwheat.jpeg`} alt="" width="241" height="230" />
-    <img src={`${PUBLIC_URL}/images/brownrice.jpeg`} alt="" width="241" height="230" />
-    <img src={`${PUBLIC_URL}/images/ragi.jpeg`} alt="" width="241" height="230" />
-    <img src={`${PUBLIC_URL}/images/fenugreek.jpeg`} alt="" width="241" height="230" />
-    <img src={`${PUBLIC_URL}/images/sorghum.jpeg`} alt="" width="241" height="230" />
+    <img src={`${PUBLIC_URL}/images/brokenwheat.jpeg`} alt="" width="238" height="227" />
+    <img src={`${PUBLIC_URL}/images/brownrice.jpeg`} alt="" width="238" height="227" />
+    <img src={`${PUBLIC_URL}/images/ragi.jpeg`} alt="" width="238" height="227" />
+    <img src={`${PUBLIC_URL}/images/fenugreek.jpeg`} alt="" width="238" height="227" />
+    <img src={`${PUBLIC_URL}/images/sorghum.jpeg`} alt="" width="238" height="227" />
     <br />
     <br />
     <div className="link-to" id="experience" />

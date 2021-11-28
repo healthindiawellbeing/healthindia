@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 import Mailer from './Mailer';
-// import EmailLink from '../components/Contact/EmailLink';
-// import ContactIcons from '../components/Contact/ContactIcons';
 
 const Contact = () => (
   <Main
@@ -20,10 +18,8 @@ const Contact = () => (
       <div className="email-at">
         <p>Feel free to get in touch.</p>
         <p>You can reach out to us at healthindiawellbeing@gmail.com or on +91 9741384590</p>
-        {/* <EmailLink /> */}
         <Mailer />
       </div>
-      {/* <ContactIcons /> */}
     </article>
   </Main>
 );
