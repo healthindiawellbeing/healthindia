@@ -18,6 +18,7 @@ const Purchase = () => (
       </header>
       <div className="email-at">
         <p>To make a purchase, inititate your payment and you will be prompted for details:</p>
+        <p>Note: Each box lasts for one week [21 packets, (3 meals a day for 7 days a week)]</p>
         <img src={`${PUBLIC_URL}/images/pay.jpeg`} alt="" width="300" height="300" object-fit="cover" />
       </div>
     </article>

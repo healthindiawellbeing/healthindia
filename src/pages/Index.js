@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
+const { PUBLIC_URL } = process.env;
+
 const Index = () => (
   <Main
     description={"Health India's commercial website"}
@@ -10,6 +12,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
+          <img src={`${PUBLIC_URL}/images/favicon.png`} alt="" width="100" height="100" object-fit="cover" />
           <h2 data-testid="heading"><Link to="/">Health India</Link></h2>
           <p>
             ancient well-being
