@@ -10,7 +10,7 @@ const About = () => (
   >
     <article className="post" id="index">
       <header>
-        <div className="title">
+        <div className="titlee">
           <h2 data-testid="heading"><Link to="/about">The Product</Link></h2>
         </div>
       </header>

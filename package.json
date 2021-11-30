@@ -29,6 +29,7 @@
     "emailjs-com": "^3.2.0",
     "express": "^4.17.1",
     "gh-pages": "^3.2.3",
+    "mini-debounce": "^1.0.8",
     "node-sass": "^4.14.1",
     "nodemailer": "^6.7.1",
     "nodemon": "^2.0.15",

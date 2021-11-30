@@ -10,7 +10,7 @@ const Dc = () => (
   >
     <article className="post" id="dietchart">
       <header>
-        <div className="title">
+        <div className="titlee">
           <h2 data-testid="heading"><Link to="/dietchart">Diet Chart</Link></h2>
         </div>
       </header>

@@ -2,6 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
+import './styles.css';
+import Caraousel from './caraousel/caraousel';
 
 const { PUBLIC_URL } = process.env;
 
@@ -31,6 +33,9 @@ const Index = () => (
         We cater to individuals suffering from such issues,
         in addition to helping the general population attain and maintain optimal health.
       </p>
+      <div className="App">
+        <Caraousel />
+      </div>
       <p align="justify">
         Food need not always be correlated with just taste, when its primary role
         is that of providing nourishment. But there are exceptions, where you can

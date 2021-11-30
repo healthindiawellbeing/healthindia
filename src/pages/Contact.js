@@ -11,7 +11,7 @@ const Contact = () => (
   >
     <article className="post" id="contact">
       <header>
-        <div className="title">
+        <div className="titlee">
           <h2 data-testid="heading"><Link to="/contact">Contact Us</Link></h2>
         </div>
       </header>

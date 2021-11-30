@@ -4,7 +4,7 @@ const { PUBLIC_URL } = process.env;
 
 const Experience = () => (
   <div className="experience">
-    <img src={`${PUBLIC_URL}/images/ingredients.jpeg`} alt="" width="100%" height="100%" object-fit="cover" />
+    <img src={`${PUBLIC_URL}/images/ingredients.jpeg`} alt="" width="100%" height="270" object-fit="cover" />
     <br />
     <br />
     <div className="link-to" id="experience" />
@@ -177,7 +177,7 @@ const Experience = () => (
       &quot;For the optimum absorption of iron, you can consume it in the form of Ragi Dosa or
       Ragi Balls, with plenty of vegetables and a generous squeeze of lime or a bowl of Sambar.
     </p>
-    <div className="title">
+    {/* <div className="title">
       <h1>Fenugreek (Methi)</h1>
     </div>
     <h4>
@@ -199,7 +199,7 @@ const Experience = () => (
       as quoted by the Press Trust of India, Fenugreek seeds when given in varying doses of 25
       grams to 100 grams daily, diminish reactive hyperglycaemia in diabetic patients. The level
       of glucose also reduces when the seeds are consumed. Because galactomannan, a natural
-      soluble fibre present in fenugreek slows down the rate of sugar absorption into blood. Thus,
+      soluble fibre present in fenugreek slows down the rate of sugar absorption intoblood. Thus,
       a diabetic patient should include fenugreek in its daily diet to balance the sugar level.
     </p>
     <h4>
@@ -221,7 +221,7 @@ const Experience = () => (
       prevent the absorption of cholesterol and triglycerides. These acts like a fat-cutter and
       also helps remove blockages from heart arteries. For obese persons, fenugreek is like a
       miracle. This simple herb has multiple benefits and uses.
-    </p>
+    </p> */}
     <div className="title">
       <h1>Sorghum (Jowar)</h1>
     </div>
