@@ -30,16 +30,16 @@ const About = () => (
       </p>
       <h2>What&apos;s in the box?</h2>
       <p align="justify">
-        The box comes with packets containing what you need to attain/maintain optimal
+        The box comes with packets containing the food items you need to attain/maintain optimal
         health, because it enables your body to greatly support vital functions, growth,
         development and a fulfilling metabolism. It could potentially change your health
         profile, for the better, should you be diabetic, or suffering from liver problems, high
-        cholesterol levels, or issues in weight management due to thyroid, PCOS, and other
-        such conditions.
+        cholesterol levels, or if you have weight management issues due to thyroid, PCOS,
+        and other such conditions.
         Our key ingredients, i.e., broken wheat, brown rice, ragi,
         sorghum (jowar) and bajra, combined with a set of few other fully organic,
         “miracle” elements can work an absolute wonder on your body. We provide you
-        with all the staples you need, in the form of 3 meals a day and 7 days a week,
+        with all the staples you need, in the form of 3 meals a day for 7 days a week,
         to keep you going for a whole week by helping you contribute to the bigger picture;
         the good health you need, to keep you going for a lifetime.
       </p>
