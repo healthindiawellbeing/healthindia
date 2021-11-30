@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/healthindia/static/css/main.b3b06daa.chunk.css",
+    "main.css": "/healthindia/static/css/main.fd9efd4a.chunk.css",
     "main.js": "/healthindia/static/js/main.cb997dc9.chunk.js",
     "main.js.map": "/healthindia/static/js/main.cb997dc9.chunk.js.map",
-    "runtime-main.js": "/healthindia/static/js/runtime-main.88650c64.js",
-    "runtime-main.js.map": "/healthindia/static/js/runtime-main.88650c64.js.map",
+    "runtime-main.js": "/healthindia/static/js/runtime-main.a584e39f.js",
+    "runtime-main.js.map": "/healthindia/static/js/runtime-main.a584e39f.js.map",
     "static/js/2.58f4dcb0.chunk.js": "/healthindia/static/js/2.58f4dcb0.chunk.js",
     "static/js/2.58f4dcb0.chunk.js.map": "/healthindia/static/js/2.58f4dcb0.chunk.js.map",
     "static/js/3.7a1fe969.chunk.js": "/healthindia/static/js/3.7a1fe969.chunk.js",
@@ -15,22 +15,22 @@
     "static/js/5.dcee3dc7.chunk.js.map": "/healthindia/static/js/5.dcee3dc7.chunk.js.map",
     "static/js/6.7740026d.chunk.js": "/healthindia/static/js/6.7740026d.chunk.js",
     "static/js/6.7740026d.chunk.js.map": "/healthindia/static/js/6.7740026d.chunk.js.map",
-    "static/js/7.246d5eef.chunk.js": "/healthindia/static/js/7.246d5eef.chunk.js",
-    "static/js/7.246d5eef.chunk.js.map": "/healthindia/static/js/7.246d5eef.chunk.js.map",
+    "static/js/7.9e22e8d8.chunk.js": "/healthindia/static/js/7.9e22e8d8.chunk.js",
+    "static/js/7.9e22e8d8.chunk.js.map": "/healthindia/static/js/7.9e22e8d8.chunk.js.map",
     "static/js/8.0a71ef56.chunk.js": "/healthindia/static/js/8.0a71ef56.chunk.js",
     "static/js/8.0a71ef56.chunk.js.map": "/healthindia/static/js/8.0a71ef56.chunk.js.map",
-    "static/js/9.56609704.chunk.js": "/healthindia/static/js/9.56609704.chunk.js",
-    "static/js/9.56609704.chunk.js.map": "/healthindia/static/js/9.56609704.chunk.js.map",
+    "static/js/9.dc414201.chunk.js": "/healthindia/static/js/9.dc414201.chunk.js",
+    "static/js/9.dc414201.chunk.js.map": "/healthindia/static/js/9.dc414201.chunk.js.map",
     "static/js/10.2625c119.chunk.js": "/healthindia/static/js/10.2625c119.chunk.js",
     "static/js/10.2625c119.chunk.js.map": "/healthindia/static/js/10.2625c119.chunk.js.map",
     "index.html": "/healthindia/index.html",
-    "static/css/main.b3b06daa.chunk.css.map": "/healthindia/static/css/main.b3b06daa.chunk.css.map",
+    "static/css/main.fd9efd4a.chunk.css.map": "/healthindia/static/css/main.fd9efd4a.chunk.css.map",
     "static/js/2.58f4dcb0.chunk.js.LICENSE.txt": "/healthindia/static/js/2.58f4dcb0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.88650c64.js",
+    "static/js/runtime-main.a584e39f.js",
     "static/js/2.58f4dcb0.chunk.js",
-    "static/css/main.b3b06daa.chunk.css",
+    "static/css/main.fd9efd4a.chunk.css",
     "static/js/main.cb997dc9.chunk.js"
   ]
 }
