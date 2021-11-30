@@ -14,6 +14,7 @@ const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Resume = lazy(() => import('./pages/Resume'));
 const DC = lazy(() => import('./pages/DC'));
+const Purchase = lazy(() => import('./pages/Purchase'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -24,6 +25,7 @@ const App = () => (
         <Route path="/contact" component={Contact} />
         <Route path="/ingredients" component={Resume} />
         <Route path="/dietchart" component={DC} />
+        <Route path="/purchase" component={Purchase} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>

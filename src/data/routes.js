@@ -5,7 +5,7 @@ const routes = [
     path: '/',
   },
   {
-    label: 'Overview',
+    label: 'The Product',
     path: '/about',
   },
   {
@@ -20,6 +20,10 @@ const routes = [
   //   label: 'Stats',
   //   path: '/stats',
   // },
+  {
+    label: 'Purchase',
+    path: '/purchase',
+  },
   {
     label: 'Contact Us',
     path: '/contact',
