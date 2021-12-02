@@ -12,8 +12,8 @@ export default function CarouselImage(props) {
         style={props.imageCaptionStyle}
       >
         <a href={props.target}>
-          {props.titleVisible && <h2>{props.data.title}</h2>}
-          {props.excerptVisible && <p>{props.data.excerpt}</p>}
+          {/* {props.titleVisible && <h2>{props.data.title}</h2>}
+          {props.excerptVisible && <p>{props.data.excerpt}</p>} */}
         </a>
       </div>
     </div>

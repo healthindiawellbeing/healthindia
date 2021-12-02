@@ -34,7 +34,7 @@ export default function Caraousel(props) {
 
   const increment = current => {
     let newVal = current + 1;
-    if (newVal >= 20) {
+    if (newVal >= 5) {
       newVal = newVal - total;
     }
 
@@ -154,12 +154,12 @@ Caraousel.defaultProps = {
     data = data.map((image, index) => {
       return {
         //image: `https://picsum.photos/seed/${index + 1}/800/450`,
-        image: `${PUBLIC_URL}/images/${index+1}.jpeg`,
+        image: `${PUBLIC_URL}/images/${index+1}.jpg`,
         id: index,
-        title: `This is Sample Title:${index+1}`,
-        excerpt:
-          "This is a sample excerpt.This is a sample excerpt.This is a sample excerpt.This is a sample excerpt.",
-        target: `http://healthindiawellbeing.github.io/healthindia`
+        // title: "Health India",
+        // excerpt:
+        //   "ancient well-being",
+        // target: `http://healthindiawellbeing.github.io/healthindia`
       };
     });
     return data;
