@@ -16,7 +16,7 @@ const Dc = () => (
       </header>
       <div className="email-at">
         <p>Click on the link below to view/download our prescribed diet chart.</p>
-        <a href="https://drive.google.com/file/d/17f1_0tuTvVdBH3AHqsS9LKSci2xzvUPh/view?usp=sharing">Diet Chart</a>
+        <a href="https://drive.google.com/file/d/11bdVOpn8zr_iwBubQmIZLq4D8eFQ8R4A/view?usp=sharing">Diet Chart</a>
       </div>
     </article>
   </Main>
