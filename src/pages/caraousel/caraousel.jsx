@@ -13,7 +13,7 @@ export default function Caraousel(props) {
   let data = props.data;
 
   const [rects, wrapperRef] = useRect();
-  const [total] = useState(5);
+  const [total] = useState(4);
   const [current, setCurrent] = useState(0);
   const [autoplay, setAutoPlay] = useState(true);
   // const [delay, setDelay] = useState(2000);
@@ -34,7 +34,7 @@ export default function Caraousel(props) {
 
   const increment = current => {
     let newVal = current + 1;
-    if (newVal >= 5) {
+    if (newVal >= 4) {
       newVal = newVal - total;
     }
 
@@ -150,7 +150,7 @@ Caraousel.defaultProps = {
   autoplay: true,
   indicatorColor: "white",
   data: (function() {
-    let data = new Array(5).fill(0);
+    let data = new Array(4).fill(0);
     data = data.map((image, index) => {
       return {
         //image: `https://picsum.photos/seed/${index + 1}/800/450`,
