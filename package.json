@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://healthindiawellbeing.github.io",
+  "homepage": "https://healthindiawellbeing.github.io/healthindia",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/healthindiawellbeing/healthindiawellbeing.github.io.git"
+    "url": "https://github.com/healthindiawellbeing/healthindia.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
