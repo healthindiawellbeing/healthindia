@@ -18,7 +18,7 @@ const Purchase = () => (
       <div className="post">
         <p>To make a purchase, inititate your payment.</p>
         <p>You will be prompted for details on your UPI App.</p>
-        <strong>Note: Each box contains 3X7 packets and costs Rs.850.</strong>
+        <strong>Each box contains 3X7 packets (for the entire week) and costs Rs.850.</strong>
         <br />
         <br />
         <img src={`${PUBLIC_URL}/images/pay.jpeg`} alt="" width="300" height="300" object-fit="cover" />
