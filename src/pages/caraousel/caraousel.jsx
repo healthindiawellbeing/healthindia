@@ -76,9 +76,9 @@ export default function Caraousel(props) {
               style={{
                 left: newPostion
               }}
-              onClick={() => {
-                window.open(item.target);
-              }}
+              // onClick={() => {
+              //   window.open(item.target);
+              // }}
             >
               <CarouselImage
                 imageCaptionStyle={props.imageCaptionStyle}
