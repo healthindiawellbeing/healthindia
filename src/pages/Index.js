@@ -15,8 +15,8 @@ const Index = () => (
       <header>
         <div className="title">
           <img src={`${PUBLIC_URL}/images/favicon.png`} alt="" width="100" height="100" object-fit="cover" />
-          <h2 data-testid="heading"><Link to="/">Health India</Link></h2>
-          <p>
+          <h2 align="left" data-testid="heading"><Link to="/">Health India</Link></h2>
+          <p align="left">
             ancient well-being
           </p>
           <p align="right">fssai approved under FBO &quot;A SQUARE&quot;</p>
