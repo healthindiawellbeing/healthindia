@@ -19,6 +19,7 @@ const Index = () => (
           <p>
             ancient well-being
           </p>
+          <p align="right">fssai approved under FBO &quot;A SQUARE&quot;</p>
         </div>
       </header>
       <p align="justify">

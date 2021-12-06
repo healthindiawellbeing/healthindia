@@ -177,6 +177,81 @@ const Experience = () => (
       &quot;For the optimum absorption of iron, you can consume it in the form of Ragi Dosa or
       Ragi Balls, with plenty of vegetables and a generous squeeze of lime or a bowl of Sambar.
     </p>
+    <div className="title">
+      <h1>Millets</h1>
+    </div>
+    <p align="justify">
+      Millets are rich in niacin, which helps your body manage more than 400 enzyme reactions.
+      Niacin is also important for healthy skin and organ function. In fact, it’s such an important
+      compound that it’s often added to processed foods to enrich them.
+      Millets, especially the darker varieties, are also an excellent source of beta-carotene. This
+      natural pigment acts as both an antioxidant and as a precursor to vitamin A, helping your
+      body fight off free radicals and supporting the health of your eyes.
+    </p>
+    <h4>
+      1. In controlling blood sugar:
+    </h4>
+    <p align="justify">
+      Millets are low in simple carbohydrates and higher in complex carbohydrates, making them a
+      low-glycemic index (GI) food. This means millets take longer to digest than standard wheat
+      flour. Low-GI foods can help keep your blood sugar from spiking after eating, which allows
+      people with diabetes to manage their blood sugar levels more easily.
+    </p>
+    <h4>
+      2. In improving digestive health:
+    </h4>
+    <p align="justify">
+      Millets are rich in dietary fiber, both soluble and insoluble. The insoluble fiber in millets
+      is known as a “prebiotic,” which means it supports good bacteria in your digestive system.
+      This type of fiber is also important for adding bulk to stools, which helps keep you regular
+      and reduces your risk of colon cancer.
+    </p>
+    <h4>
+      3. In providing nutrition:
+    </h4>
+    <p align="justify">
+      Millets are rich in potassium—a mineral that supports healthy kidney and heart function.
+      Potassium also plays a role in nerve signal transmission, which is how your brain and
+      muscles communicate. It’s also an excellent source of: Vitamin A, B, Calcium, Iron etc.
+    </p>
+    <h4>
+      4. In weight management:
+    </h4>
+    <p align="justify">
+      Millets are a boon for all those who want to attain optimal weight. Including
+      millets in the regular regimen can remarkably
+      help in lowering the BMI of obese people. Swapping rice with millets daily can lower
+      accumulation of fat, improves gut health and help you in achieving sustained weight loss.
+    </p>
+    <div className="title">
+      <h1>Bajra</h1>
+    </div>
+    <h4>
+      1. In improving heart health:
+    </h4>
+    <p align="justify">
+      Bajra is rich in magnesium, which helps keep the heart healthy. It has potassium, which
+      dilates blood vessels, allowing blood to flow more easily. This helps reduce overall blood
+      pressure. Bajra also has fibre that helps reduce LDL, or bad cholesterol. Magnesium helps
+      control the glucose receptors in the body and keep diabetes at bay.
+    </p>
+    <h4>
+      2. In detoxing:
+    </h4>
+    <p align="justify">
+      Bajra contains phytic acid, tannins and phenols, all antioxidants which help in preventing
+      ageing and metabolic diseases like heart disease, stroke and cancer. It also contains
+      catechins like quercetin that help keep the kidney and liver functioning properly by
+      excreting the toxins from the body.
+    </p>
+    <h4>
+      3. High in fibre:
+    </h4>
+    <p align="justify">
+      Digestion is sluggish during the rainy season, so it helps to stick to high-fibre foods like
+      bajra. It is loaded with insoluble fibre that provides bulk to the stool and keeps away
+      constipation.
+    </p>
     {/* <div className="title">
       <h1>Fenugreek (Methi)</h1>
     </div>
