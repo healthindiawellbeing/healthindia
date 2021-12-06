@@ -17,7 +17,9 @@ const Contact = () => (
       </header>
       <div className="email-at">
         <p>Feel free to get in touch.</p>
-        <p>You can reach out to us at healthindiawellbeing@gmail.com or on +91 9741384590</p>
+        <strong>You can reach out to us at healthindiawellbeing@gmail.com, </strong>
+        <strong>and we&apos;ll get back to you within 24 hours.</strong>
+        <p> . </p>
         <Mailer />
       </div>
     </article>
