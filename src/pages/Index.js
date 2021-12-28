@@ -19,7 +19,8 @@ const Index = () => (
           <p align="left">
             ancient well-being
           </p>
-          <p align="right">fssai approved under FBO &quot;A SQUARE&quot;</p>
+          <p align="right">fssai approved under FBO &quot;A SQUARE&quot; - 21221179002579</p>
+          <p align="right">GST under FBO &quot;A SQUARE&quot; - 29ABSFM5256H1ZM</p>
         </div>
       </header>
       <p align="justify">
