@@ -14,7 +14,8 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <img src={`${PUBLIC_URL}/images/favicon.png`} alt="" width="100" height="100" object-fit="cover" />
+          <img src={`${PUBLIC_URL}/images/favicon.png`} alt="" width="200" height="200" object-fit="cover" />
+          <h6 align="left" data-testid="heading"><Link to="/">-</Link></h6>
           <h2 align="left" data-testid="heading"><Link to="/">Health India</Link></h2>
           <p align="left">
             ancient well-being

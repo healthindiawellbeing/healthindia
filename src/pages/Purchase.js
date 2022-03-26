@@ -17,7 +17,7 @@ const Purchase = () => (
       </header>
       <div className="post">
         <p>Inititate your payment and you will be prompted for details on your UPI App.</p>
-        <strong>Each box contains 3X7 packets (for the entire week) and costs Rs.850. </strong>
+        <strong>Each box contains 3X7 packets (for the entire week) and costs Rs.990. </strong>
         <strong>The product is to be stored in the refrigerator.</strong>
         <br />
         <br />
